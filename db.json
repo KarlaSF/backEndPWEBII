@@ -2,27 +2,38 @@
   "produtos": [
     {
       "id": 1,
-      "nome": "Curso de Angular",
+      "nome": "Angular",
       "validade": "2021-12-31",
-      "preco": 550.54
+      "preco": 5000
     },
     {
-      "nome": "23",
+      "nome": "Java",
       "validade": "2003-02-23",
-      "preco": 23,
+      "preco": 5000,
       "id": 2
     },
     {
-      "nome": "kkk",
+      "nome": ".Net Maui",
       "validade": "2024-11-11",
-      "preco": 44,
+      "preco": 5000,
       "id": 3
     },
     {
-      "nome": "2",
+      "nome": "TypeScript",
       "validade": "4554-05-04",
-      "preco": 22,
+      "preco": 5000,
       "id": 4
+    },
+    {
+      "nome": "C#",
+      "preco": 5000,
+      "id": 5
+    },
+    {
+      "nome": "JavaScript",
+      "preco": 5000,
+      "id": 6
     }
-  ]
+  ],
+  "usuarios": []
 }
